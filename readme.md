@@ -6,7 +6,7 @@
 
 
 ### exemplo do codigo rodando
-##### codigo abaixo é o ipv6 do google
+##### ipv6 exemplo pertence ao google
 ![exemplo](/exemplo.png)
 
 ##### fique a vontade para aprimora-lo.
