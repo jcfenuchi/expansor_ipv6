@@ -1,6 +1,6 @@
 #
 ## Python ♥ code to expand ipv6 address
-#### this code is a easy way to use IPV6, because ipv6 needs expand and this code make this.
+#### this code is a easy way to use IPV6, because ipv6 needs expand in some cases and this code make this.
 #
 ##### for other hand this code make a start of file of reverse zone to the DNS( PTR ), and you dont need make this hard work again :)  
 
